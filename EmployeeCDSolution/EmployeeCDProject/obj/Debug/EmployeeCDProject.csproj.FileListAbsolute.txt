@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\bin\Debug\EmployeeCDProject.exe.config
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\bin\Debug\EmployeeCDProject.exe
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\bin\Debug\EmployeeCDProject.pdb
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.frmEmployee.resources
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.Properties.Resources.resources
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.exe
+C:\Users\jpscott\Desktop\MyEmployeeOOP\EmployeeCDSolution\EmployeeCDProject\obj\Debug\EmployeeCDProject.pdb
